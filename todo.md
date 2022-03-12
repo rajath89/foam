@@ -7,6 +7,9 @@ You can create todos in Foam.
 - [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
   - [ ] You can also select multiple lines and mark them all at once
 
+
+# Links
+
 - https://leetcode.com/problems/find-the-duplicate-number/solution/
 - https://leetcode.com/problems/binary-search/
 - https://leetcode.com/problems/squares-of-a-sorted-array/
