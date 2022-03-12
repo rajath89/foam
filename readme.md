@@ -14,7 +14,7 @@ This documentation assumes that you have a GitHub account and have [Visual Studi
 
     *Open the repository as a folder using the `File > Open...` menu item.*
 
-4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
+4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one 
 
 After setting up the repository, head to [[getting-started]] to get familiar with your new knowledge base!
 
