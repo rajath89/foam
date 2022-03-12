@@ -1,8 +1,6 @@
 # Getting Started
 
 # Git configuration using PAT
-
-
 - git remote remove origin
 
 - git remote add origin https://[TOKEN]@[REPO LINK]
