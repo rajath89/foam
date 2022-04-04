@@ -22,3 +22,11 @@ You can create todos in Foam.
 - https://leetcode.com/problems/single-number/discuss/1771720/C%2B%2B-EASY-SOLUTIONS-(SORTING-XOR-MAPS-(OR-FREQUENCY-ARRAY))
 - https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/60294/Solution-explained
 - https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list
+
+
+- https://leetcode.com/problem-list/top-microsoft-questions/
+- https://leetcode.com/problems/set-mismatch/solution/
+- https://leetcode.com/problems/find-the-duplicate-number/solution/
+- https://stackoverflow.com/questions/10178980/how-to-convert-a-binary-string-to-a-base-10-integer-in-java
+- https://leetcode.com/problems/add-strings/discuss/1892459/JavaScript-Solution
+- https://dashboard.render.com/
