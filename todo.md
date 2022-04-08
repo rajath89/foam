@@ -30,3 +30,5 @@ You can create todos in Foam.
 - https://stackoverflow.com/questions/10178980/how-to-convert-a-binary-string-to-a-base-10-integer-in-java
 - https://leetcode.com/problems/add-strings/discuss/1892459/JavaScript-Solution
 - https://dashboard.render.com/
+
+- https://leetcode.com/problems/min-stack/
