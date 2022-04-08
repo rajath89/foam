@@ -32,3 +32,4 @@ You can create todos in Foam.
 - https://dashboard.render.com/
 
 - https://leetcode.com/problems/min-stack/
+- https://leetcode.com/problems/search-insert-position/discuss/1922505/JAVA-0ms-100-faster-easy-Solution-with-O(logN)-time
